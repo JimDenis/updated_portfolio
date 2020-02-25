@@ -1,7 +1,9 @@
-# bootstrap_profile
+# updated_profile
 My profile using Bootstrap 
 
-Jim Denis --- Home Work 2 --- Date 02/04/20 
+Jim Denis --- Home Work ? --- Date 02/25/20
+
+NOT DONE YET !!!!!!!!
 
 Created three HTML's. One for that's about me, one that's got a my portfolio & another with a my contact numbers. 
 
